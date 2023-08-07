@@ -21,7 +21,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/OpenJDK-282C34?logo=openjdk&logoColor=FFFFFF" alt="Java logo" title="Java" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=FFFFFF" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=A8B9CC" alt="C logo" title="C" height="25" /></span>
 &nbsp;
