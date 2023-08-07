@@ -1,4 +1,3 @@
-<!-- Trungquandev -->
 <a href="#" target="_blank">
   <img src="svg/NguyenDat27.svg" width="1200" alt="NguyenDat27-official" />
 </a>
@@ -20,7 +19,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Python-282C34?logo=python-css&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python logo" title="Python" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Java-282C34?logo=java&logoColor=007396" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
